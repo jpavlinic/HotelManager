@@ -1,0 +1,6 @@
+Log Timestamp: 2024-04-20 18:30:05
+Error Message: Access denied for user 'root'@'localhost' (using password: YES)
+SQL State: 28000
+SQL Error Code: 1045
+Detail: Failed to establish database connection
+

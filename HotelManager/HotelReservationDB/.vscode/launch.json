@@ -1,0 +1,83 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Registration",
+            "request": "launch",
+            "mainClass": "UI.Registration",
+            "projectName": "HotelReservationDB_4704c1a2",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Profile",
+            "request": "launch",
+            "mainClass": "UI.Profile",
+            "projectName": "HotelReservationDB_de6e2af1",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "List",
+            "request": "launch",
+            "mainClass": "UI.List",
+            "projectName": "HotelReservationDB_de6e2af1",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Search",
+            "request": "launch",
+            "mainClass": "UI.Search",
+            "projectName": "HotelReservationDB_de6e2af1",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "MainPage",
+            "request": "launch",
+            "mainClass": "UI.MainPage",
+            "projectName": "HotelReservationDB_de6e2af1",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "LogIn",
+            "request": "launch",
+            "mainClass": "UI.LogIn",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Registration",
+            "request": "launch",
+            "mainClass": "UI.Registration",
+            "projectName": "HotelReservationDB_de6e2af1",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "HotelReservationDB_de6e2af1",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "UI",
+            "request": "launch",
+            "mainClass": "UI",
+            "projectName": "HotelReservationDB_de6e2af1",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

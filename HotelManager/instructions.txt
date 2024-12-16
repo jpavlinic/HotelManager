@@ -1,0 +1,5 @@
+1. in databaseInfo.txt change the data for connection with the db 
+2. Run the script from the hotelDatabase.sql - that creates the databse and table with the admin user (login info are admin, admin)
+3. Log in with admin or register
+4. Admin can both list and search for hotels, Listing user can only list hotels(and other actions like edit listing...), and 
+Regular user can only search hotels(and do other actions like book...)
